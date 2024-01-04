@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c13a32cf-287d-478d-95d9-ac4c15450a71" name="Changes" comment="first">
+      <change afterPath="$PROJECT_DIR$/server/vercel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/server" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ZZoDaRusVjnjoAKtAvi8sGN2fb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/web/online-store-frontEnd&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2023.1.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\web\own-online-store\server\controllers" />
+      <recent name="D:\web\own-online-store\client\src\components" />
+      <recent name="D:\web\own-online-store\client\src\store" />
+      <recent name="D:\web\own-online-store\client\src\pages" />
+      <recent name="D:\web\own-online-store\server\middleware" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\web\own-online-store\client\src\assets" />
+      <recent name="D:\web\own-online-store\client\src\components\modals" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c13a32cf-287d-478d-95d9-ac4c15450a71" name="Changes" comment="" />
+      <created>1702638845384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702638845384</updated>
+      <workItem from="1702638846916" duration="15000" />
+      <workItem from="1702638872414" duration="22000" />
+      <workItem from="1702638931026" duration="932000" />
+      <workItem from="1702642106485" duration="27000" />
+      <workItem from="1702647653773" duration="599000" />
+      <workItem from="1702720749899" duration="114000" />
+      <workItem from="1702727882419" duration="7435000" />
+      <workItem from="1702831048197" duration="8458000" />
+      <workItem from="1702904326063" duration="4336000" />
+      <workItem from="1703097700431" duration="5258000" />
+      <workItem from="1703420892026" duration="179000" />
+      <workItem from="1703421146221" duration="441000" />
+      <workItem from="1703620881905" duration="877000" />
+      <workItem from="1703791290926" duration="5000" />
+      <workItem from="1703791813834" duration="6115000" />
+      <workItem from="1703799033306" duration="353000" />
+      <workItem from="1703805626381" duration="9896000" />
+      <workItem from="1703885804434" duration="481000" />
+      <workItem from="1703888707597" duration="19339000" />
+      <workItem from="1704012871965" duration="22112000" />
+      <workItem from="1704128169384" duration="19978000" />
+      <workItem from="1704213845978" duration="5537000" />
+      <workItem from="1704230792202" duration="597000" />
+      <workItem from="1704275905402" duration="2056000" />
+      <workItem from="1704284991162" duration="2084000" />
+      <workItem from="1704291873362" duration="1241000" />
+      <workItem from="1704293600953" duration="251000" />
+      <workItem from="1704392135784" duration="3435000" />
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <option name="closed" value="true" />
+      <created>1704392904707</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704392904707</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first">
+      <option name="closed" value="true" />
+      <created>1704394360143</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704394360143</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
+</project>
