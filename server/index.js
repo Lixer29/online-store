@@ -20,14 +20,18 @@ const app = express()
 
 // app.use(errorMiddleware)
 
-const start = async () => {
-    try {
+app.use("/", (req, res) => {
+    res.send("Server running")
+})
+
+// const start = async () => {
+//     try {
         // await sequelize.authenticate()
         // await sequelize.sync()
-        app.listen(PORT, () => console.log(`App started on port ${PORT} `))
-    } catch (e) {
-        console.log(e)
-    }
-}
+        app.listen(5000, () => console.log(`App started on port 5000 `))
+//     } catch (e) {
+//         console.log(e)
+//     }
+// }
 
-start()
+// start()
